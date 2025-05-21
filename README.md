@@ -5,7 +5,7 @@
 
 ### Introduction
 
-<img src = "">
+<img src = "public/logo.png" height = '500 pt' width = '700 pt'/>
 
 DomainScope is a web application built for tracking critical domain information of websites.
 
@@ -16,6 +16,20 @@ DomainScope is a web application built for tracking critical domain information 
 #### Website Input Card
 
 <img src = "public/input_card.png" alt = "data_input_card">
+
+
+#### Display Card
+
+Following critical information will be displayed :-
+ <ul>
+   <li>Registration Date</li>
+   <li>Expiration Date</li>
+   <li>Hosted Platform</li>
+ </ul>
+
+ <br>
+
+ <img src = 'public/data_display_card.png' alt = "Data Display Card" />
 
 📚[Installation Guide](https://day.js.org/docs/en/installation/installation)
 
